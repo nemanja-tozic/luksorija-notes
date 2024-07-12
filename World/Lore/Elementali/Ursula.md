@@ -1,0 +1,1 @@
+Jedan od [[Elementali|Elementala]] - elemental Vode. Trenutno se pretpostavlja da se nalazi u svojoj ravni - [[Ravan Vode]].

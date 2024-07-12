@@ -1,0 +1,1 @@
+Jedna od 9 imenovanih [[Bogovi|Bogova]] [[Luksorija|Luksorije]]. Boginja sreće, snova i zvezda, sa alignmentom CG. Postoji mnogo hramova posvećeni ovom Bogu i podosta klanova, među njima i [[Mighthammer]] klan koji je prihvataju kao najveću Boginju, iako je njihov alignment uglavnom LG.

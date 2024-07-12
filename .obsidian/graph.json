@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "path: World  ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:World/Organisations  ",
+      "color": {
+        "a": 1,
+        "rgb": 12293460
+      }
+    },
+    {
+      "query": "path:World/Characters  ",
+      "color": {
+        "a": 1,
+        "rgb": 14269053
+      }
+    },
+    {
+      "query": "path:World/Locations  ",
+      "color": {
+        "a": 1,
+        "rgb": 6597577
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.00020751953125,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.321858723958333,
+  "repelStrength": 9.86246744791667,
+  "linkStrength": 1,
+  "linkDistance": 144,
+  "scale": 0.6513257670212649,
+  "close": false
+}

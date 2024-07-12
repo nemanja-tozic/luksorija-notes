@@ -1,0 +1,13 @@
+Nakon [[Istorija Planete#Božanska intervencija|Božanske intervencije]] dominacija visokorodnih vilenjaka nestaje. Pretrpevši velike gubitke prouzrokovane kataklizmom, visokorodni vilenjaci se povukoše duboko u najveću šumu [[Norzar|Norzara]] – [[Malfaneir]]. Sakriveno od neveštog oka, ovo je danas jedino kraljevstvo visokorodnih vilenjaka.
+
+Iako više nisu dominantni, niti "vodeća" rasa, oni tiho šalju svoje agente širom [[Luksorija|Luksorije]], prikupljajući informacije i pomno prateći razvitak Sveta.
+
+## Odnosi sa ostalim vilenjačkim podrasama:
+
+| Podrase                                   | Odnos                                                                                                                                                                                                                                                                     |
+| ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Šumski Vilenjak\|Šumski vilenjaci]]     | Poštuju ih, pogotovo što su ih posle svega prihvatili u **Malfaneir** gde ima i “gradova” šumskih vilenjaka                                                                                                                                                               |
+| [[Mesečevi Vilenjak\|Mesečevi vilenjaci]] | Smatraju ih sprdnjom i klovnovima vilenjačke rase. Naravno to samo u međusbnom kontaktu. Za druge rase, oni su latice istog cveta i brane jedni druge.                                                                                                                    |
+| [[Vodeni Vilenjak\|Vodeni vilenjaci]]     | I dalje bude veliku znatiželju kod visokorodnih, ali su i dalje Velika nepoznanica (kao uostalom i za ostatak sveta). Kontakt među njima postoji, kao i uzajamno poštovanje, ali istovremeno je prisutna i nekakva uzdržanost prema njima (jer ipak nisu Prvi vilenjaci). |
+| [[Mračni Vilenjak\|Mračni vilenjaci]]     | Nepoznato                                                                                                                                                                                                                                                                 |
+|                                           |                                                                                                                                                                                                                                                                           |

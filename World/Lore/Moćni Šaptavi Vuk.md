@@ -1,0 +1,1 @@
+Jedan od moćnih bića koju je zarobila [[Brunhilda]] u [[Ravan Snova|Ravan Snova ("Nokturn")]] kako bi zloupotrebila njegovu moć i postala **Bog**. Uz pomoć zajedničke akcije [[Gilda Drevnih|Gilde Drevnih]]  i [[Insomnia|Insomnie]], vuk je oslobođen gde je i asistirao u konačnom napadu na [[Brunhilda|Brunhildu]].

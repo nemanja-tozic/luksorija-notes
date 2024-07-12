@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "870e773787c53f08",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad1b8171a8c6a869",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55e46c1a5902c9be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/NPCs/Zajan I.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c9545f996f7891ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Locations/Materijalna Ravan/Luksorija/Norzar/Stare Planine/Mighthammer (Selo).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3fe9ab7647560949",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Locations/Materijalna Ravan/Luksorija/Norzar/Kederija.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6c0e55420ba86596",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f63041e4fd4f7dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "197b341e34a9246f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e93c42fa1af29953",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "\"\\[\\[Zajan II\" ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0199b87e7011e75b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "132fcef79aef01f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "995bad6bab8aaec4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "535ab15844745fe7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "World/Locations/Materijalna Ravan/Luksorija/Norzar/Stare Planine/Mighthammer (Selo).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b89b1a4cdc2635df",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "World/Locations/Materijalna Ravan/Luksorija/Norzar/Stare Planine/Mighthammer (Selo).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "77fc01b07e81d633",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ad8f67297e5466b4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "World/Locations/Materijalna Ravan/Luksorija/Norzar/Stare Planine/Mighthammer (Selo).md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
+    }
+  },
+  "active": "c9545f996f7891ef",
+  "lastOpenFiles": [
+    "World/Locations/Materijalna Ravan/Luksorija/Norzar/Stare Planine/Savežđe.md",
+    "World/Locations/Materijalna Ravan/Luksorija/Norzar/Stare Planine/Mighthammer (Selo).md",
+    "World/Locations/Materijalna Ravan/Luksorija/Norzar/Mondragor/Neimar.md",
+    "World/Locations/Materijalna Ravan/Luksorija/Norzar/Norzar.md",
+    "World/Locations/Materijalna Ravan/Luksorija/Norzar/Mondragor/Mondragor.md",
+    "z_Assets/mighthammer.png",
+    "World/Locations/Materijalna Ravan/Luksorija/Norzar/Stare Planine/Stare Planine.md",
+    "World/Locations/Materijalna Ravan/Luksorija/Norzar/Mondragor/Prsnik/Tezga Magičnih Napitaka i Proizvoda “Kod Danja”.md",
+    "z_Assets/Pasted image 20240701161442.png",
+    "z_Assets/Pasted image 20240701161440.png",
+    "World/Locations/Materijalna Ravan/Luksorija/Norzar/Mondragor/Prsnik/Kovačnica.md",
+    "z_Assets/Pasted image 20240701154818.png",
+    "World/Locations/Materijalna Ravan/Luksorija/Norzar/Mondragor/Prsnik/Prodavnica Avanturističke Opreme \"K2\".md",
+    "World/Locations/Materijalna Ravan/Luksorija/Norzar/Mondragor/Prsnik/Prodavnica Generalne Opreme \"Srećni Taban\".md",
+    "z_Assets/Pasted image 20240701154638.png",
+    "World/Locations/Materijalna Ravan/Luksorija/Norzar/Mondragor/Prsnik/Sedište Gilde Drevnih.md",
+    "z_Assets/Pasted image 20240701154440.png",
+    "World/Locations/Materijalna Ravan/Luksorija/Norzar/Mondragor/Prsnik/Prsnik.md",
+    "World/Locations/Materijalna Ravan/Luksorija/Norzar/Mondragor/Peščarnik/Peščarnik.md",
+    "World/Lore/Merdovalon - Staro Kraljevstvo.md",
+    "World/NPCs/Zajan I.md",
+    "World/Organisations/Triangla.md",
+    "World/Organisations/Drogova Refleksija.md",
+    "World/NPCs/Zajan II Bronzani.md",
+    "World/Organisations/Zmajeva Garda.md",
+    "World/Locations/Materijalna Ravan/Luksorija/Norzar/Kederija.md",
+    "World/Lore/Races/Polu-Ork.md",
+    "World/Organisations/Mighthammer.md",
+    "World/Locations/Materijalna Ravan/Luksorija/Norzar/Planine Šiljci.md",
+    "World/Locations/Materijalna Ravan/Luksorija/Norzar/Reka Vena.md",
+    "World/Locations/Materijalna Ravan/Luksorija/Norzar/Anžije/Anžije.md",
+    "World/Locations/Materijalna Ravan/Luksorija/Norzar/Ksareks.md",
+    "World/Locations/Materijalna Ravan/Luksorija/Norzar/Anžije",
+    "z_Assets/mapa-luksorije.jpg",
+    "World/Locations/Ravan Snova",
+    "Campaign",
+    "World/Locations/Materijalna Ravan/Luksorija/Norzar/Stare Planine",
+    "World/Creatures & Enemies",
+    "World/Characters",
+    "World/Locations/Materijalna Ravan/Luksorija/Norzar/Mondragor/Zelen Šuma",
+    "World/NPCs",
+    "World/Lore/Bogovi/Neimenovani Bogovi",
+    "World/Lore/Bogovi/Imenovani Bogovi",
+    "z_Assets/pescarnik.jpg",
+    "z_Assets/prsnik.jpg",
+    "z_Assets/mondragor.jpg"
+  ]
+}

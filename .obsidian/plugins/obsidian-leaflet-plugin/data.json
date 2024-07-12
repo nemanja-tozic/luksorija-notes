@@ -1,0 +1,244 @@
+{
+  "mapMarkers": [
+    {
+      "id": "leaflet-map",
+      "lastAccessed": 1719327097420,
+      "markers": [
+        {
+          "id": "ID_d9799968381a",
+          "type": "default",
+          "loc": [
+            -2.1793212890625,
+            2.421875
+          ],
+          "layer": "%5B%5Bmapa-luksorije.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6bb9f82aabb8",
+          "type": "default",
+          "loc": [
+            -1.9136962890625,
+            2.671875
+          ],
+          "layer": "%5B%5Bmapa-luksorije.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3b19eb191acb",
+          "type": "default",
+          "loc": [
+            -1.9644775390625,
+            3.0078125
+          ],
+          "layer": "%5B%5Bmapa-luksorije.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6ab9cbbaebaa",
+          "type": "default",
+          "loc": [
+            -2.3863525390625,
+            3.1171875
+          ],
+          "layer": "%5B%5Bmapa-luksorije.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d928a96a3b38",
+          "type": "default",
+          "loc": [
+            -2.1168212890625,
+            2.59375
+          ],
+          "layer": "%5B%5Bmapa-luksorije.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7ad9a8abb8f8",
+          "type": "default",
+          "loc": [
+            -2.2261962890625,
+            2.9375
+          ],
+          "layer": "%5B%5Bmapa-luksorije.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2b0ada8a5889",
+          "type": "default",
+          "loc": [
+            -2.9996337890625,
+            3.1015625
+          ],
+          "layer": "%5B%5Bmapa-luksorije.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c93bb97a39d9",
+          "type": "default",
+          "loc": [
+            -6.328857421875,
+            4.783843994140625
+          ],
+          "layer": "%5B%5Bmapa-luksorije.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f938fbab58c8",
+          "type": "default",
+          "loc": [
+            -6.328857421875,
+            4.783843994140625
+          ],
+          "layer": "%5B%5Bmapa-luksorije.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "World/Locations/Materijalna Ravan/Luksorija/Luksorija.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    },
+    "isImage": false
+  },
+  "markerIcons": [],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {
+    "darkMode": "false",
+    "defaultZoom": 7,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "500px",
+    "image": "[[mondragor.jpg]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[mondragor.jpg]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [
+      "default, -1.6, 3.13, [[Prsnik]]",
+      "default, -2.9, 3.65, [[Peščarnik]]",
+      "default, -1.6, 4.5, [[Zelen Šuma]]",
+      "default, -2.2, 3.8, [[Krunske Planine]]",
+      "default, -2.8, 4.15, [[Markier Šuma]]",
+      "default, -2.58, 5.14, [[Sol]]",
+      "default, -0.75, 4.5, [[Stara Planina]]"
+    ],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 9,
+    "minZoom": 7,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 2,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 0,
+    "zoomFeatures": false,
+    "id": "mondragor",
+    "lat": 50,
+    "long": 50,
+    "width": "100%",
+    "unit": "miles",
+    "draw": false,
+    "filterTag": []
+  },
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}

@@ -1,0 +1,1 @@
+Jedan od [[Elementali|Elementala]] - elemental Vatre. Trenutno se pretpostavlja da se nalazi u svojoj ravni - [[Ravan Vatre]].
